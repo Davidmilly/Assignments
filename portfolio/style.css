@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-color: rgb(224, 255, 252);
+  }
+  img {
+    width: 80px;
+    border-radius: 100px;
+  }
+  main h1{
+    color: rgb(243, 207, 4);
+  }
+  body services {
+   font-family: "Brush Script MT", cursive; 
+  }
+  

@@ -1,0 +1,46 @@
+
+body {
+    background-color: rgb(224, 255, 252);
+} 
+form {
+    background-color: rgb(21, 226, 148);
+}
+input {
+    width: 100%; padding: 8px 20px; margin: 8px 0px;
+    background-color: azure;
+}
+fieldset {
+    margin: auto;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background: 3c5077;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+    padding: 10px 60px;
+    background: ;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+.popup {
+    width: 400px;
+    background: ;
+    border-radius: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 0 30px 30px;
+}
+{
+font-family: cursive;
+}
